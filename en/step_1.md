@@ -1,19 +1,15 @@
-## Introduction
+- With your sprite selected, click on the **Costumes** tab
 
-Add project description here. What will learners be making?
+	![costumes tab](images/costumes_tab.png)
+	
+- Select where you want to choose a costume from. From left to write your choices are:
+  1. Choose costume from library
+  1. Paint new costume
+  1. Upload costume from file
+  1. New costume from camera
+  
+  ![choose location](images/choose_location.png)
+  
+- If you wish to delete the imported costume, select it an click on the small cross in the top right hand corner
 
-### What you will make
-
-Add something here to showcase here, for example:
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+	![delete costume](images/delete_costume.png)
