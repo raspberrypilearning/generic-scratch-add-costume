@@ -10,6 +10,8 @@
   
   ![choose location](images/choose_location.png)
   
+- To import multiple costumes, you can hold down shift while you are selecting them, then click on *OK* when you are finished.
+
 - If you wish to delete the imported costume, select it an click on the small cross in the top right hand corner
 
 	![delete costume](images/delete_costume.png)
