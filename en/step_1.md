@@ -2,7 +2,7 @@
 
 	![costumes tab](images/costumes_tab.png)
 	
-- Select where you want to choose a costume from. From left to write your choices are:
+- You can choose one for the four options from the tab. From left to right they are:
   1. Choose costume from library
   1. Paint new costume
   1. Upload costume from file
@@ -10,8 +10,8 @@
   
   ![choose location](images/choose_location.png)
   
-- To import multiple costumes, you can hold down shift while you are selecting them, then click on *OK* when you are finished.
+- To import multiple costumes, you can hold down **Shift** while you are selecting them. Click on **OK** when you are finished.
 
-- If you wish to delete the imported costume, select it an click on the small cross in the top right hand corner
+- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
 
 	![delete costume](images/delete_costume.png)
