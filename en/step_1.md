@@ -1,4 +1,4 @@
-- With your sprite selected, click on the **Costumes** tab
+- With your sprite selected, click on the Costumes tab
 
 	![costumes tab](images/costumes_tab.png)
 	
